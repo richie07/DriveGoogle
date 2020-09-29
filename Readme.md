@@ -6,7 +6,7 @@ _El proyecto consiste en automatizar un flujo en GoogleDrive en la creación de 
 Precondición:
 - Ejecutar en Sistema Operativo Windows
 - Descarga el archivo Google ChromeDriver con la versión instalada en su local
-y reemplazarla el que se encuentra existente siguiente ruta: src/test/resources/driver
+y reemplazarla el existente en la siguiente ruta: src/test/resources/driver
 - Tener instalado previamente maven en su local
 - Tener instaldo jdk 8 de java
 - Descargar proyecto de git(Push) a su local
